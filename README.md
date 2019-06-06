@@ -30,10 +30,10 @@ https://github.com/ChasleL/MiniPokedex.git
 
 - Affiche la liste de tous les Pokémons.
 
-<img src="https://i.imgur.com/rllFWQ0.jpg" alt="Pokemon List"> 
+<img src="https://imgur.com/rllFWQ0" alt="Pokemon List"> 
 
 ### Ecran du détail du pokémon
 
 - Tentative d'affichage des détails d'un Pokemon à travers les données d'un URL.
 
-<img src="https://i.imgur.com/T31uniB.jpg" alt="Pokemon List"> 
+<img src="https://imgur.com/T31uniB" alt="Pokemon List"> 
